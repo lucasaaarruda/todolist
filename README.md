@@ -1,5 +1,4 @@
 # Lista de Tarefas - To do
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucasaaarruda/projeto_lista_tarefas/blob/main/LICENSE) 
 
 # Sobre o projeto
 

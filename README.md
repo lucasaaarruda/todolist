@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-O projeto lista de tarefas é uma aplicação full stack web, construída como projeto de treinamento.
+O projeto lista de tarefas é uma aplicação full stack web.
 
 O projeto consiste em uma aplicação web, onde você pode adicionar, editar e excluir tarefas do seu dia a dia. Nele nós temos o título da tarefa, data e hora da criação da tarefa, data de entrega e a data que a tarefa foi finalizada, ordenadas pela necessidade de entrega. Sendo um ambiente extremamente simples e usual.
 
